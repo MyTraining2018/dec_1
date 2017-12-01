@@ -35,7 +35,7 @@ public class ParameterizedTestCase {
 			{-1,-3,-4},
 			{0,5,5},
 			{-90,0,-90},
-			{1,2,3}
+			{1,2,30}
 		});
 	}
 	
